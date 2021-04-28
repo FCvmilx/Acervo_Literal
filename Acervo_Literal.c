@@ -1,10 +1,4 @@
-//Brenda da Silva
-//Felipe Camilo Soares
-//Henrique Roas Martins Marquito
-//Herick Jose de Albuquerque Correia
-//Isabella Gabrielle
-//Wilson da Silva Goltara
-//Yuri Goncalves Fonseca Cardoso
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
